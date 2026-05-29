@@ -1,0 +1,3 @@
+/home/joelo/Code/simple-cpp/cppgraphics/projects/000_template_linux/build/CMakeFiles/000_template_linux_executable.dir
+/home/joelo/Code/simple-cpp/cppgraphics/projects/000_template_linux/build/CMakeFiles/edit_cache.dir
+/home/joelo/Code/simple-cpp/cppgraphics/projects/000_template_linux/build/CMakeFiles/rebuild_cache.dir

@@ -13,6 +13,7 @@
 #include "cppgraphics.hpp"
 
 #include <array>
+#include <algorithm>
 #include <cassert>
 #include <string>
 #include <chrono>
